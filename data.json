@@ -1,0 +1,22 @@
+[{
+    "name":"aaa",
+    "dob":"09/03/1997",
+    "college":"uce",
+    "mobile":9098765560
+},
+{"name":"bbb",
+"dob":"08/04/1997",
+"college":"aciet",
+"mobile":9198755561},
+{
+    "name":"ccc",
+    "dob":"19/05/1997",
+    "college":"vjcet",
+    "mobile":9198760565
+},
+{
+    "name":"ddd",
+    "dob":"05/03/1997",
+    "college":"aject",
+    "mobile":9099705560
+}]
